@@ -22,4 +22,6 @@ class Dog
       puts x.name
     end
   end
+
+  
 end
